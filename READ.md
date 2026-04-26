@@ -27,7 +27,7 @@
 - Jupyter Notebook (VS Code)，nbstata 内核
 
 ### GitHub 仓库
-https://github.com/huang-yq-7/dshw--panel
+https://github.com/huang-yq-7/dshw-panel
 
 ### Quarto Book（如完成）
 https://huang-yq-7.github.io/dshw--panel/
