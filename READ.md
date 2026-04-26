@@ -29,8 +29,6 @@
 ### GitHub 仓库
 https://github.com/huang-yq-7/dshw-panel
 
-### Quarto Book（如完成）
-https://huang-yq-7.github.io/dshw--panel/
 
 ### 主要发现（3-5 条）
 1. A 股上市公司资本结构整体支持优序融资理论，盈利能力与杠杆率显著负相关。
